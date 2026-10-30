@@ -27,4 +27,4 @@ Unity **2022.3.62f3c1** · URP 14.0.12
 
 ## 依赖
 
-URP 14.0.12 · com.qq.weixin.minigame · TextMeshPro · UGUI
+ com.qq.weixin.minigame
