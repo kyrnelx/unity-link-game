@@ -8,9 +8,8 @@ Unity 2022.3.62f3c1 LTS
 
 ## 目录
 
-- `Assets/Game/LinkGame` — 场景、Runtime（Core / Managers / Views）、Res
-- `Assets/Platform` — 平台抽象（广告 / 游戏圈）
-- `Assets/Core` — Debugger、Singleton
+- `Assets/Runtime/（Core / Managers / Views）
+- `Assets/Runtime/Platform` — 平台抽象（广告 / 游戏）
 - `Assets/Res` — 字体、音效、图案
 - `Assets/Plugins/Editor/FontPruner` — 字体裁剪工具
 - `Assets/WX-WASM-SDK-V2`、`Assets/WebGLTemplates` — 微信小游戏配置与模板
