@@ -8,7 +8,7 @@ Unity 2022.3.62f3c1 LTS
 
 ## 目录
 
-- `Assets/Runtime/（Core / Managers / Views）
+- `Assets/Runtime/（Core / Managers / Views）`
 - `Assets/Runtime/Platform` — 平台抽象（广告 / 游戏）
 - `Assets/Res` — 字体、音效、图案
 - `Assets/Plugins/Editor/FontPruner` — 字体裁剪工具
